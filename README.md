@@ -1,39 +1,3 @@
-<!--
-  README for Parag Marathe
-  Put this in a repo named exactly: YOUR_GITHUB_USERNAME
-  Replace placeholders like YourUsername, profile-image-url, and project links
--->
-
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td width="36%" valign="top" align="center">
-
-<!-- left column: circular avatar and short card -->
-<div align="center">
-  <img src="https://github.com/YourUsername.png" width="160" alt="Parag Marathe" style="border-radius:50%; box-shadow: 0 6px 18px rgba(0,0,0,0.3)"/>
-  <h2 style="margin:6px 0 2px 0">Parag S Marathe</h2>
-  <p style="margin:0">📍 Nashik, India • BCA (Sandip University) • Class of 2026</p>
-  <p style="margin-top:8px; color:var(--color-subtle)">Undergraduate • Builder • Curious about AI, Cybersec & Full-Stack</p>
-
-  <p style="margin-top:12px">
-    <a href="mailto:paragmarathe05@gmail.com">✉️ Email</a> •
-    <a href="https://www.linkedin.com/in/paragm05">LinkedIn</a> •
-    <a href="https://wa.me/919975803340">WhatsApp</a>
-  </p>
-
-  <!-- Visitor counter (replace if you want) -->
-  <p style="margin-top:10px">
-    <img src="https://komarev.com/ghpvc/?username=YourUsername&style=flat-square&color=blue" alt="visitors"/>
-  </p>
-</div>
-
-      </td>
-
-      <td width="64%" valign="top">
-
-<!-- right column: main content -->
-<div align="left">
 
 # 🙏 Namaste! I'm **Parag Marathe**
 
