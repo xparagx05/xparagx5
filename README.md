@@ -1,68 +1,76 @@
+<!-- Header -->
+<h2 align="center">नमस्कार 🙏, I'm Parag S. Marathe</h2>
 
-# 🙏 Namaste! I'm **Parag Marathe**
+<p align="center">
+  <em>Founder • Developer • Innovator • Designer</em>  
+</p>
 
-**BCA student (Sandip University • Class of 2026)** — building real projects that help communities. I love learning new tech fast and shipping useful tools. Currently focused on **Full Stack Development**, **Cybersecurity**, and **AI**.
-
-> “Always curious. Always building. Always learning.” ✨
-
----
-
-### 🎯 Current Focus
-- 🚀 Full-Stack Web Development (HTML, CSS, JavaScript, Python, Node.js)  
-- 🔐 Cybersecurity & Ethical Hacking fundamentals  
-- 💧 Community projects: **JalMitra** (water conservation), **JeevanDan** (blood donation), **Rakshak Portal** (Civil Defence volunteers)  
-- 🌱 Practising Vedic Math and problem solving
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding animation">
+</p>
 
 ---
 
-### 🛠 Tech Stack
-<div>
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</div>
+## 💡 About Me  
+
+I'm a passionate **BCA student (2026)** and a **vision-driven developer** from **Nashik, India 🇮🇳**.  
+I love turning social problems into innovative digital solutions through technology and design.  
+
+💧 Founder of **JalMitra** — Water Conservation through Gamification  
+🛡️ Developer of **Rakshak Portal** — Civil Defence Volunteer System  
+🩸 Creator of **JeevanDan** — Blood Donation Platform  
+👾 Team Lead of **CRYPTIFY** — Hackathon Innovation Team  
+
+🌱 Currently focusing on:  
+- Building scalable web apps using **Python**, **JavaScript**, and **SQL**  
+- Enhancing UI/UX through **Figma** and **Canva**  
+- Exploring **AI & Ethical Hacking**  
 
 ---
 
-### 📌 Featured Projects
-- 💧 **[JalMitra](https://github.com/YourUsername/JalMitra)** — Gamified water conservation platform (frontend + backend)  
-- 🩸 **[JeevanDan](https://github.com/YourUsername/JeevanDan)** — Emergency blood donation & request portal  
-- 🛡 **[Rakshak Portal](https://github.com/YourUsername/Rakshak-Portal)** — Volunteer information & coordination system  
-- 🔐 **AI Legal Assistant (prototype)** — Early R&D on legal-assistant flow & dataset
+## ⚙️ Tech Stack  
 
-> ⚠️ Tip: Link each project to its repo or demo. Add a 1-line description and tech used.
+### 💻 Web & App Development  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
----
+### 🧠 Tools & Design  
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### ✨ Show some motion (GIF / Hero)
-<!-- place a GIF on the right to make it lively — replace the src with your GIF url -->
-<div align="right">
-  <img src="https://camo.githubusercontent.com/04a821c9ae8bc91c3678f91b04a9defc870b17089904968cbaf2145165bf5a58/68747470733a2f2f67696666696c65732e616c706861636f646572732e636f6d2f3239372f323937302e676966" 
-       alt="parag-hero" width="220" style="border-radius:10px; box-shadow: 0 8px 20px rgba(0,0,0,0.35)"/>
-</div>
-
----
-
-### 📊 GitHub Stats & Highlights
-<!-- Replace YourUsername with your GitHub username -->
-<div align="left">
-  <img alt="Parag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dark&count_private=true" width="48%"/>
-  <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=dark" width="48%"/>
-</div>
+### ⚔️ Areas of Interest  
+- Web & App Development  
+- UI/UX Design  
+- AI and Ethical Hacking  
+- Social Impact Tech Projects  
 
 ---
 
-### 📫 Connect with me
-- 📱 WhatsApp / Phone: **+91 9975803340**  
-- ✉ Email: **paragmarathe05@gmail.com**  
-- 💼 LinkedIn: https://www.linkedin.com/in/paragm05
+## 🚀 Current Focus  
+🎯 Developing next version of **JalMitra** (revamp & gamified UI)  
+📊 Enhancing **Rakshak Portal** for Civil Defence volunteer management  
+🌍 Participating in national hackathons (SIH, NASA Space Apps)  
 
 ---
-<div align="center">
-  <sub>Made with ❤️ • Always learning • Open to collaboration — DM me on LinkedIn or WhatsApp</sub>
-</div>
+
+## 🌐 Connect With Me  
+
+<p align="center">
+  <a href="mailto:paragsmarathe.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/paragsmarathe"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/yourhandle"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  ⚡ <em>"Building technology with compassion, creativity & courage."</em> ⚡  
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=paragsmarathe&show_icons=true&theme=tokyonight" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paragsmarathe&theme=tokyonight" width="400" />
+</p>
